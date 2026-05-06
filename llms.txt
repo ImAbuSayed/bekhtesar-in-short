@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 23, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/bekhtesar-in-short/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Music Rights & Licensing for Bekhtesar – In Short](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
