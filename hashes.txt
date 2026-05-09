@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bekhtesar – In Short
+
+This log tracks the cryptographic history and versioning for the song **Bekhtesar – In Short** (bekhtesar-in-short).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T11:43:58.526103 | `v1` | `011135ead1c28bc9a053c617afdbdd10bf3a36837936b61d037e58ac860e22f9` | `4e347607a53b0569a58f36e1306bfed17baae57423214471d53c73cbcd81075b` | `2026-05-09_bekhtesar-in-short-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
